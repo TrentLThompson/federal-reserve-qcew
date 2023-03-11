@@ -1,0 +1,3202 @@
+{
+    "1990_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 350860,
+            "annual_avg_emplvl": 5761332,
+            "total_annual_wages": 145287035872,
+            "annual_avg_wkly_wage": 485,
+            "avg_annual_pay": 25218
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 680822,
+            "annual_avg_emplvl": 11799244,
+            "total_annual_wages": 329399211039,
+            "annual_avg_wkly_wage": 537,
+            "avg_annual_pay": 27917
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 251457,
+            "annual_avg_emplvl": 4960014,
+            "total_annual_wages": 118974448939,
+            "annual_avg_wkly_wage": 461,
+            "avg_annual_pay": 23987
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 340498,
+            "annual_avg_emplvl": 6712757,
+            "total_annual_wages": 149817014208,
+            "annual_avg_wkly_wage": 429,
+            "avg_annual_pay": 22318
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 528724,
+            "annual_avg_emplvl": 10519921,
+            "total_annual_wages": 236908168344,
+            "annual_avg_wkly_wage": 433,
+            "avg_annual_pay": 22520
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 732976,
+            "annual_avg_emplvl": 13016697,
+            "total_annual_wages": 273521970322,
+            "annual_avg_wkly_wage": 404,
+            "avg_annual_pay": 21013
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 666303,
+            "annual_avg_emplvl": 13497064,
+            "total_annual_wages": 324927480080,
+            "annual_avg_wkly_wage": 463,
+            "avg_annual_pay": 24074
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 286106,
+            "annual_avg_emplvl": 5004425,
+            "total_annual_wages": 100252016442,
+            "annual_avg_wkly_wage": 385,
+            "avg_annual_pay": 20033
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 214684,
+            "annual_avg_emplvl": 3210215,
+            "total_annual_wages": 67534536569,
+            "annual_avg_wkly_wage": 405,
+            "avg_annual_pay": 21037
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 366510,
+            "annual_avg_emplvl": 5681570,
+            "total_annual_wages": 118576866612,
+            "annual_avg_wkly_wage": 401,
+            "avg_annual_pay": 20870
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 378127,
+            "annual_avg_emplvl": 7408072,
+            "total_annual_wages": 165982096424,
+            "annual_avg_wkly_wage": 431,
+            "avg_annual_pay": 22406
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1161446,
+            "annual_avg_emplvl": 20455172,
+            "total_annual_wages": 503590680781,
+            "annual_avg_wkly_wage": 473,
+            "avg_annual_pay": 24619
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 151891,
+            "annual_avg_emplvl": 1481005,
+            "total_annual_wages": 39746768348,
+            "annual_avg_wkly_wage": 516,
+            "avg_annual_pay": 26838
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 6110404,
+            "annual_avg_emplvl": 109507489,
+            "total_annual_wages": 2574518293980,
+            "annual_avg_wkly_wage": 452,
+            "avg_annual_pay": 23510
+        }
+    },
+    "1991_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 344846,
+            "annual_avg_emplvl": 5454839,
+            "total_annual_wages": 144418889074,
+            "annual_avg_wkly_wage": 509,
+            "avg_annual_pay": 26475
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 690979,
+            "annual_avg_emplvl": 11359232,
+            "total_annual_wages": 331919468872,
+            "annual_avg_wkly_wage": 562,
+            "avg_annual_pay": 29220
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 263604,
+            "annual_avg_emplvl": 4837898,
+            "total_annual_wages": 121335082974,
+            "annual_avg_wkly_wage": 482,
+            "avg_annual_pay": 25080
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 347564,
+            "annual_avg_emplvl": 6642514,
+            "total_annual_wages": 153201620025,
+            "annual_avg_wkly_wage": 444,
+            "avg_annual_pay": 23064
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 554998,
+            "annual_avg_emplvl": 10302096,
+            "total_annual_wages": 242676315851,
+            "annual_avg_wkly_wage": 453,
+            "avg_annual_pay": 23556
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 766283,
+            "annual_avg_emplvl": 12914078,
+            "total_annual_wages": 283534071945,
+            "annual_avg_wkly_wage": 422,
+            "avg_annual_pay": 21955
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 687801,
+            "annual_avg_emplvl": 13387350,
+            "total_annual_wages": 335224742003,
+            "annual_avg_wkly_wage": 482,
+            "avg_annual_pay": 25040
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 296294,
+            "annual_avg_emplvl": 4974534,
+            "total_annual_wages": 103708468651,
+            "annual_avg_wkly_wage": 401,
+            "avg_annual_pay": 20848
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 220193,
+            "annual_avg_emplvl": 3241773,
+            "total_annual_wages": 70558864917,
+            "annual_avg_wkly_wage": 419,
+            "avg_annual_pay": 21766
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 380948,
+            "annual_avg_emplvl": 5751044,
+            "total_annual_wages": 124132012137,
+            "annual_avg_wkly_wage": 415,
+            "avg_annual_pay": 21584
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 411776,
+            "annual_avg_emplvl": 7494338,
+            "total_annual_wages": 175520135105,
+            "annual_avg_wkly_wage": 450,
+            "avg_annual_pay": 23420
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1294166,
+            "annual_avg_emplvl": 20015246,
+            "total_annual_wages": 516316054142,
+            "annual_avg_wkly_wage": 496,
+            "avg_annual_pay": 25796
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 156733,
+            "annual_avg_emplvl": 1349410,
+            "total_annual_wages": 38864423662,
+            "annual_avg_wkly_wage": 554,
+            "avg_annual_pay": 28801
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 6416185,
+            "annual_avg_emplvl": 107724351,
+            "total_annual_wages": 2641410149358,
+            "annual_avg_wkly_wage": 472,
+            "avg_annual_pay": 24520
+        }
+    },
+    "1992_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 337793,
+            "annual_avg_emplvl": 5421113,
+            "total_annual_wages": 151431659448,
+            "annual_avg_wkly_wage": 537,
+            "avg_annual_pay": 27934
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 692668,
+            "annual_avg_emplvl": 11192643,
+            "total_annual_wages": 351975113037,
+            "annual_avg_wkly_wage": 605,
+            "avg_annual_pay": 31447
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 265566,
+            "annual_avg_emplvl": 4828458,
+            "total_annual_wages": 127900040519,
+            "annual_avg_wkly_wage": 509,
+            "avg_annual_pay": 26489
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 361294,
+            "annual_avg_emplvl": 6689459,
+            "total_annual_wages": 163728586225,
+            "annual_avg_wkly_wage": 471,
+            "avg_annual_pay": 24476
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 565440,
+            "annual_avg_emplvl": 10396681,
+            "total_annual_wages": 256629623964,
+            "annual_avg_wkly_wage": 475,
+            "avg_annual_pay": 24684
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 786540,
+            "annual_avg_emplvl": 13137973,
+            "total_annual_wages": 304262591946,
+            "annual_avg_wkly_wage": 445,
+            "avg_annual_pay": 23159
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 706176,
+            "annual_avg_emplvl": 13526330,
+            "total_annual_wages": 356744417154,
+            "annual_avg_wkly_wage": 507,
+            "avg_annual_pay": 26374
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 300783,
+            "annual_avg_emplvl": 5064954,
+            "total_annual_wages": 110926693507,
+            "annual_avg_wkly_wage": 421,
+            "avg_annual_pay": 21901
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 224186,
+            "annual_avg_emplvl": 3329647,
+            "total_annual_wages": 76302228729,
+            "annual_avg_wkly_wage": 441,
+            "avg_annual_pay": 22916
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 386011,
+            "annual_avg_emplvl": 5864781,
+            "total_annual_wages": 132338274067,
+            "annual_avg_wkly_wage": 434,
+            "avg_annual_pay": 22565
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 417171,
+            "annual_avg_emplvl": 7585236,
+            "total_annual_wages": 187251145810,
+            "annual_avg_wkly_wage": 475,
+            "avg_annual_pay": 24686
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1362057,
+            "annual_avg_emplvl": 19873930,
+            "total_annual_wages": 540297362157,
+            "annual_avg_wkly_wage": 523,
+            "avg_annual_pay": 27186
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 159344,
+            "annual_avg_emplvl": 1325735,
+            "total_annual_wages": 40814958062,
+            "annual_avg_wkly_wage": 592,
+            "avg_annual_pay": 30787
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 6565031,
+            "annual_avg_emplvl": 108236940,
+            "total_annual_wages": 2800602694625,
+            "annual_avg_wkly_wage": 498,
+            "avg_annual_pay": 25875
+        }
+    },
+    "1993_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 340506,
+            "annual_avg_emplvl": 5511067,
+            "total_annual_wages": 156962952729,
+            "annual_avg_wkly_wage": 548,
+            "avg_annual_pay": 28481
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 697402,
+            "annual_avg_emplvl": 11248334,
+            "total_annual_wages": 359641862237,
+            "annual_avg_wkly_wage": 615,
+            "avg_annual_pay": 31973
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 266146,
+            "annual_avg_emplvl": 4875477,
+            "total_annual_wages": 131264581748,
+            "annual_avg_wkly_wage": 518,
+            "avg_annual_pay": 26923
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 374748,
+            "annual_avg_emplvl": 6792151,
+            "total_annual_wages": 169665121575,
+            "annual_avg_wkly_wage": 480,
+            "avg_annual_pay": 24980
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 582508,
+            "annual_avg_emplvl": 10646367,
+            "total_annual_wages": 268201921168,
+            "annual_avg_wkly_wage": 484,
+            "avg_annual_pay": 25192
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 808556,
+            "annual_avg_emplvl": 13628524,
+            "total_annual_wages": 320214622151,
+            "annual_avg_wkly_wage": 452,
+            "avg_annual_pay": 23496
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 724502,
+            "annual_avg_emplvl": 13821462,
+            "total_annual_wages": 370728299391,
+            "annual_avg_wkly_wage": 516,
+            "avg_annual_pay": 26823
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 307148,
+            "annual_avg_emplvl": 5209356,
+            "total_annual_wages": 115945045783,
+            "annual_avg_wkly_wage": 428,
+            "avg_annual_pay": 22257
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 226701,
+            "annual_avg_emplvl": 3422911,
+            "total_annual_wages": 79954526952,
+            "annual_avg_wkly_wage": 449,
+            "avg_annual_pay": 23359
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 394680,
+            "annual_avg_emplvl": 6024409,
+            "total_annual_wages": 139224815553,
+            "annual_avg_wkly_wage": 444,
+            "avg_annual_pay": 23110
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 434144,
+            "annual_avg_emplvl": 7804809,
+            "total_annual_wages": 196028100652,
+            "annual_avg_wkly_wage": 483,
+            "avg_annual_pay": 25116
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1404894,
+            "annual_avg_emplvl": 19973727,
+            "total_annual_wages": 550837930304,
+            "annual_avg_wkly_wage": 530,
+            "avg_annual_pay": 27578
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 163964,
+            "annual_avg_emplvl": 1375122,
+            "total_annual_wages": 43272694225,
+            "annual_avg_wkly_wage": 605,
+            "avg_annual_pay": 31468
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 6725899,
+            "annual_avg_emplvl": 110333716,
+            "total_annual_wages": 2901942474468,
+            "annual_avg_wkly_wage": 506,
+            "avg_annual_pay": 26302
+        }
+    },
+    "1994_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 349199,
+            "annual_avg_emplvl": 5628998,
+            "total_annual_wages": 163337533530,
+            "annual_avg_wkly_wage": 558,
+            "avg_annual_pay": 29017
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 706209,
+            "annual_avg_emplvl": 11362948,
+            "total_annual_wages": 369467529473,
+            "annual_avg_wkly_wage": 625,
+            "avg_annual_pay": 32515
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 266741,
+            "annual_avg_emplvl": 4945230,
+            "total_annual_wages": 136621624024,
+            "annual_avg_wkly_wage": 531,
+            "avg_annual_pay": 27627
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 381394,
+            "annual_avg_emplvl": 6970216,
+            "total_annual_wages": 179416802832,
+            "annual_avg_wkly_wage": 495,
+            "avg_annual_pay": 25740
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 600821,
+            "annual_avg_emplvl": 10938186,
+            "total_annual_wages": 283698214152,
+            "annual_avg_wkly_wage": 499,
+            "avg_annual_pay": 25936
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 833418,
+            "annual_avg_emplvl": 14142415,
+            "total_annual_wages": 340068112860,
+            "annual_avg_wkly_wage": 462,
+            "avg_annual_pay": 24046
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 740038,
+            "annual_avg_emplvl": 14240998,
+            "total_annual_wages": 395139791354,
+            "annual_avg_wkly_wage": 534,
+            "avg_annual_pay": 27747
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 314792,
+            "annual_avg_emplvl": 5411061,
+            "total_annual_wages": 123802813252,
+            "annual_avg_wkly_wage": 440,
+            "avg_annual_pay": 22880
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 233852,
+            "annual_avg_emplvl": 3546630,
+            "total_annual_wages": 85056836651,
+            "annual_avg_wkly_wage": 461,
+            "avg_annual_pay": 23982
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 405592,
+            "annual_avg_emplvl": 6239608,
+            "total_annual_wages": 147738656639,
+            "annual_avg_wkly_wage": 455,
+            "avg_annual_pay": 23678
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 444762,
+            "annual_avg_emplvl": 8077841,
+            "total_annual_wages": 206474317849,
+            "annual_avg_wkly_wage": 492,
+            "avg_annual_pay": 25561
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1408995,
+            "annual_avg_emplvl": 20486650,
+            "total_annual_wages": 573476903714,
+            "annual_avg_wkly_wage": 538,
+            "avg_annual_pay": 27993
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 172958,
+            "annual_avg_emplvl": 1460278,
+            "total_annual_wages": 46595374247,
+            "annual_avg_wkly_wage": 614,
+            "avg_annual_pay": 31909
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 6858770,
+            "annual_avg_emplvl": 113451059,
+            "total_annual_wages": 3050894510577,
+            "annual_avg_wkly_wage": 517,
+            "avg_annual_pay": 26892
+        }
+    },
+    "1995_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 356076,
+            "annual_avg_emplvl": 5743192,
+            "total_annual_wages": 172725652316,
+            "annual_avg_wkly_wage": 578,
+            "avg_annual_pay": 30075
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 718685,
+            "annual_avg_emplvl": 11457985,
+            "total_annual_wages": 388393163389,
+            "annual_avg_wkly_wage": 652,
+            "avg_annual_pay": 33897
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 271237,
+            "annual_avg_emplvl": 5006307,
+            "total_annual_wages": 143231401718,
+            "annual_avg_wkly_wage": 550,
+            "avg_annual_pay": 28610
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 378377,
+            "annual_avg_emplvl": 7141188,
+            "total_annual_wages": 188902483259,
+            "annual_avg_wkly_wage": 509,
+            "avg_annual_pay": 26453
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 615186,
+            "annual_avg_emplvl": 11176894,
+            "total_annual_wages": 297966869641,
+            "annual_avg_wkly_wage": 513,
+            "avg_annual_pay": 26659
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 853429,
+            "annual_avg_emplvl": 14579809,
+            "total_annual_wages": 362918329020,
+            "annual_avg_wkly_wage": 479,
+            "avg_annual_pay": 24892
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 761638,
+            "annual_avg_emplvl": 14628096,
+            "total_annual_wages": 419056067433,
+            "annual_avg_wkly_wage": 551,
+            "avg_annual_pay": 28647
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 321546,
+            "annual_avg_emplvl": 5543158,
+            "total_annual_wages": 133222822810,
+            "annual_avg_wkly_wage": 462,
+            "avg_annual_pay": 24034
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 238044,
+            "annual_avg_emplvl": 3653453,
+            "total_annual_wages": 90341175143,
+            "annual_avg_wkly_wage": 476,
+            "avg_annual_pay": 24728
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 415119,
+            "annual_avg_emplvl": 6422542,
+            "total_annual_wages": 156966296460,
+            "annual_avg_wkly_wage": 470,
+            "avg_annual_pay": 24440
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 461002,
+            "annual_avg_emplvl": 8360203,
+            "total_annual_wages": 221425453906,
+            "annual_avg_wkly_wage": 509,
+            "avg_annual_pay": 26486
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1497830,
+            "annual_avg_emplvl": 21033801,
+            "total_annual_wages": 606432575350,
+            "annual_avg_wkly_wage": 554,
+            "avg_annual_pay": 28831
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 190094,
+            "annual_avg_emplvl": 1645388,
+            "total_annual_wages": 105302677443,
+            "annual_avg_wkly_wage": 1231,
+            "avg_annual_pay": 63999
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7078264,
+            "annual_avg_emplvl": 116392018,
+            "total_annual_wages": 3286884967888,
+            "annual_avg_wkly_wage": 543,
+            "avg_annual_pay": 28240
+        }
+    },
+    "1996_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 360674,
+            "annual_avg_emplvl": 5835641,
+            "total_annual_wages": 183003043277,
+            "annual_avg_wkly_wage": 603,
+            "avg_annual_pay": 31360
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 732414,
+            "annual_avg_emplvl": 11572859,
+            "total_annual_wages": 410828739080,
+            "annual_avg_wkly_wage": 683,
+            "avg_annual_pay": 35499
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 275870,
+            "annual_avg_emplvl": 5064209,
+            "total_annual_wages": 150618733685,
+            "annual_avg_wkly_wage": 572,
+            "avg_annual_pay": 29742
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 386617,
+            "annual_avg_emplvl": 7231252,
+            "total_annual_wages": 197981999970,
+            "annual_avg_wkly_wage": 527,
+            "avg_annual_pay": 27379
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 627400,
+            "annual_avg_emplvl": 11371872,
+            "total_annual_wages": 314174674516,
+            "annual_avg_wkly_wage": 531,
+            "avg_annual_pay": 27627
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 879600,
+            "annual_avg_emplvl": 14972850,
+            "total_annual_wages": 386466952595,
+            "annual_avg_wkly_wage": 496,
+            "avg_annual_pay": 25811
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 787218,
+            "annual_avg_emplvl": 14852402,
+            "total_annual_wages": 441188657304,
+            "annual_avg_wkly_wage": 571,
+            "avg_annual_pay": 29705
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 328123,
+            "annual_avg_emplvl": 5614528,
+            "total_annual_wages": 137906165683,
+            "annual_avg_wkly_wage": 472,
+            "avg_annual_pay": 24562
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 246482,
+            "annual_avg_emplvl": 3738492,
+            "total_annual_wages": 97599847121,
+            "annual_avg_wkly_wage": 502,
+            "avg_annual_pay": 26107
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 423687,
+            "annual_avg_emplvl": 6589199,
+            "total_annual_wages": 167699678146,
+            "annual_avg_wkly_wage": 489,
+            "avg_annual_pay": 25451
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 469676,
+            "annual_avg_emplvl": 8586093,
+            "total_annual_wages": 237692989709,
+            "annual_avg_wkly_wage": 532,
+            "avg_annual_pay": 27683
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1489492,
+            "annual_avg_emplvl": 21686392,
+            "total_annual_wages": 648035337595,
+            "annual_avg_wkly_wage": 575,
+            "avg_annual_pay": 29882
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 213178,
+            "annual_avg_emplvl": 1714546,
+            "total_annual_wages": 58644798797,
+            "annual_avg_wkly_wage": 658,
+            "avg_annual_pay": 34204
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7220432,
+            "annual_avg_emplvl": 118830334,
+            "total_annual_wages": 3431841617478,
+            "annual_avg_wkly_wage": 555,
+            "avg_annual_pay": 28880
+        }
+    },
+    "1997_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 368987,
+            "annual_avg_emplvl": 5963818,
+            "total_annual_wages": 196439130112,
+            "annual_avg_wkly_wage": 633,
+            "avg_annual_pay": 32938
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 742921,
+            "annual_avg_emplvl": 11752004,
+            "total_annual_wages": 442624190655,
+            "annual_avg_wkly_wage": 724,
+            "avg_annual_pay": 37664
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 284127,
+            "annual_avg_emplvl": 5168359,
+            "total_annual_wages": 159923729937,
+            "annual_avg_wkly_wage": 595,
+            "avg_annual_pay": 30943
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 393947,
+            "annual_avg_emplvl": 7359182,
+            "total_annual_wages": 210634096155,
+            "annual_avg_wkly_wage": 550,
+            "avg_annual_pay": 28622
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 645319,
+            "annual_avg_emplvl": 11684965,
+            "total_annual_wages": 339187403197,
+            "annual_avg_wkly_wage": 558,
+            "avg_annual_pay": 29028
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 908278,
+            "annual_avg_emplvl": 15375359,
+            "total_annual_wages": 414965964245,
+            "annual_avg_wkly_wage": 519,
+            "avg_annual_pay": 26989
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 802446,
+            "annual_avg_emplvl": 15230938,
+            "total_annual_wages": 526056815801,
+            "annual_avg_wkly_wage": 664,
+            "avg_annual_pay": 34539
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 332362,
+            "annual_avg_emplvl": 5721558,
+            "total_annual_wages": 147982737219,
+            "annual_avg_wkly_wage": 497,
+            "avg_annual_pay": 25864
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 253498,
+            "annual_avg_emplvl": 3824187,
+            "total_annual_wages": 103711257505,
+            "annual_avg_wkly_wage": 522,
+            "avg_annual_pay": 27120
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 435194,
+            "annual_avg_emplvl": 6796178,
+            "total_annual_wages": 181019323807,
+            "annual_avg_wkly_wage": 512,
+            "avg_annual_pay": 26635
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 494840,
+            "annual_avg_emplvl": 8945143,
+            "total_annual_wages": 261226528494,
+            "annual_avg_wkly_wage": 562,
+            "avg_annual_pay": 29203
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1488880,
+            "annual_avg_emplvl": 22382364,
+            "total_annual_wages": 704071850431,
+            "annual_avg_wkly_wage": 605,
+            "avg_annual_pay": 31457
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 247191,
+            "annual_avg_emplvl": 1840344,
+            "total_annual_wages": 66273537912,
+            "annual_avg_wkly_wage": 693,
+            "avg_annual_pay": 36011
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7397989,
+            "annual_avg_emplvl": 122044400,
+            "total_annual_wages": 3754116565470,
+            "annual_avg_wkly_wage": 592,
+            "avg_annual_pay": 30760
+        }
+    },
+    "1998_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 376297,
+            "annual_avg_emplvl": 6084170,
+            "total_annual_wages": 210570636481,
+            "annual_avg_wkly_wage": 666,
+            "avg_annual_pay": 34610
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 752350,
+            "annual_avg_emplvl": 11967278,
+            "total_annual_wages": 469706698299,
+            "annual_avg_wkly_wage": 755,
+            "avg_annual_pay": 39249
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 289733,
+            "annual_avg_emplvl": 5261228,
+            "total_annual_wages": 170774338326,
+            "annual_avg_wkly_wage": 624,
+            "avg_annual_pay": 32459
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 397524,
+            "annual_avg_emplvl": 7482152,
+            "total_annual_wages": 223078146309,
+            "annual_avg_wkly_wage": 573,
+            "avg_annual_pay": 29815
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 663933,
+            "annual_avg_emplvl": 11915507,
+            "total_annual_wages": 363022447602,
+            "annual_avg_wkly_wage": 586,
+            "avg_annual_pay": 30466
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 941548,
+            "annual_avg_emplvl": 15768725,
+            "total_annual_wages": 446543290049,
+            "annual_avg_wkly_wage": 545,
+            "avg_annual_pay": 28318
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 817626,
+            "annual_avg_emplvl": 15332150,
+            "total_annual_wages": 501624111810,
+            "annual_avg_wkly_wage": 629,
+            "avg_annual_pay": 32717
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 335606,
+            "annual_avg_emplvl": 5812556,
+            "total_annual_wages": 156429605910,
+            "annual_avg_wkly_wage": 518,
+            "avg_annual_pay": 26912
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 255980,
+            "annual_avg_emplvl": 3915542,
+            "total_annual_wages": 112099158096,
+            "annual_avg_wkly_wage": 551,
+            "avg_annual_pay": 28629
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 443845,
+            "annual_avg_emplvl": 6997762,
+            "total_annual_wages": 196272345387,
+            "annual_avg_wkly_wage": 539,
+            "avg_annual_pay": 28048
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 502395,
+            "annual_avg_emplvl": 9284065,
+            "total_annual_wages": 287400857047,
+            "annual_avg_wkly_wage": 595,
+            "avg_annual_pay": 30956
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1608725,
+            "annual_avg_emplvl": 23114553,
+            "total_annual_wages": 766638098263,
+            "annual_avg_wkly_wage": 638,
+            "avg_annual_pay": 33167
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 294059,
+            "annual_avg_emplvl": 2164111,
+            "total_annual_wages": 83155137386,
+            "annual_avg_wkly_wage": 739,
+            "avg_annual_pay": 38425
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7679622,
+            "annual_avg_emplvl": 125099798,
+            "total_annual_wages": 3987314870965,
+            "annual_avg_wkly_wage": 613,
+            "avg_annual_pay": 31873
+        }
+    },
+    "1999_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 382023,
+            "annual_avg_emplvl": 6214812,
+            "total_annual_wages": 226558185827,
+            "annual_avg_wkly_wage": 701,
+            "avg_annual_pay": 36455
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 767310,
+            "annual_avg_emplvl": 12200942,
+            "total_annual_wages": 499304822634,
+            "annual_avg_wkly_wage": 787,
+            "avg_annual_pay": 40923
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 295316,
+            "annual_avg_emplvl": 5358436,
+            "total_annual_wages": 179006271150,
+            "annual_avg_wkly_wage": 642,
+            "avg_annual_pay": 33406
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 401334,
+            "annual_avg_emplvl": 7612643,
+            "total_annual_wages": 234522987870,
+            "annual_avg_wkly_wage": 592,
+            "avg_annual_pay": 30807
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 683397,
+            "annual_avg_emplvl": 12206681,
+            "total_annual_wages": 388041679129,
+            "annual_avg_wkly_wage": 611,
+            "avg_annual_pay": 31789
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 947108,
+            "annual_avg_emplvl": 16070762,
+            "total_annual_wages": 471305632020,
+            "annual_avg_wkly_wage": 564,
+            "avg_annual_pay": 29327
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 820745,
+            "annual_avg_emplvl": 15574939,
+            "total_annual_wages": 527874607614,
+            "annual_avg_wkly_wage": 652,
+            "avg_annual_pay": 33893
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 339082,
+            "annual_avg_emplvl": 5960307,
+            "total_annual_wages": 164313068994,
+            "annual_avg_wkly_wage": 530,
+            "avg_annual_pay": 27568
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 257331,
+            "annual_avg_emplvl": 3996898,
+            "total_annual_wages": 119090945469,
+            "annual_avg_wkly_wage": 573,
+            "avg_annual_pay": 29796
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 450745,
+            "annual_avg_emplvl": 7147703,
+            "total_annual_wages": 208949611249,
+            "annual_avg_wkly_wage": 562,
+            "avg_annual_pay": 29233
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 507604,
+            "annual_avg_emplvl": 9496497,
+            "total_annual_wages": 305642527673,
+            "annual_avg_wkly_wage": 619,
+            "avg_annual_pay": 32185
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1647931,
+            "annual_avg_emplvl": 23793024,
+            "total_annual_wages": 833494280221,
+            "annual_avg_wkly_wage": 674,
+            "avg_annual_pay": 35031
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 345550,
+            "annual_avg_emplvl": 2370426,
+            "total_annual_wages": 112678071952,
+            "annual_avg_wkly_wage": 914,
+            "avg_annual_pay": 47535
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7845476,
+            "annual_avg_emplvl": 128004069,
+            "total_annual_wages": 4270782691802,
+            "annual_avg_wkly_wage": 642,
+            "avg_annual_pay": 33364
+        }
+    },
+    "2000_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 386416,
+            "annual_avg_emplvl": 6361245,
+            "total_annual_wages": 249888068978,
+            "annual_avg_wkly_wage": 755,
+            "avg_annual_pay": 39283
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 757372,
+            "annual_avg_emplvl": 12438103,
+            "total_annual_wages": 543075092809,
+            "annual_avg_wkly_wage": 840,
+            "avg_annual_pay": 43662
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 299154,
+            "annual_avg_emplvl": 5434582,
+            "total_annual_wages": 189252820995,
+            "annual_avg_wkly_wage": 670,
+            "avg_annual_pay": 34824
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 405078,
+            "annual_avg_emplvl": 7690656,
+            "total_annual_wages": 244970812349,
+            "annual_avg_wkly_wage": 613,
+            "avg_annual_pay": 31853
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 700234,
+            "annual_avg_emplvl": 12502782,
+            "total_annual_wages": 418018842094,
+            "annual_avg_wkly_wage": 643,
+            "avg_annual_pay": 33434
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 958356,
+            "annual_avg_emplvl": 16381634,
+            "total_annual_wages": 503571963798,
+            "annual_avg_wkly_wage": 591,
+            "avg_annual_pay": 30740
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 829330,
+            "annual_avg_emplvl": 15808803,
+            "total_annual_wages": 557034104312,
+            "annual_avg_wkly_wage": 678,
+            "avg_annual_pay": 35236
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 340436,
+            "annual_avg_emplvl": 5984978,
+            "total_annual_wages": 172652503160,
+            "annual_avg_wkly_wage": 555,
+            "avg_annual_pay": 28848
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 263392,
+            "annual_avg_emplvl": 4081209,
+            "total_annual_wages": 127904902076,
+            "annual_avg_wkly_wage": 603,
+            "avg_annual_pay": 31340
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 458616,
+            "annual_avg_emplvl": 7310802,
+            "total_annual_wages": 226733110827,
+            "annual_avg_wkly_wage": 596,
+            "avg_annual_pay": 31013
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 514965,
+            "annual_avg_emplvl": 9759738,
+            "total_annual_wages": 334152070772,
+            "annual_avg_wkly_wage": 658,
+            "avg_annual_pay": 34238
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1623010,
+            "annual_avg_emplvl": 24515959,
+            "total_annual_wages": 926524239694,
+            "annual_avg_wkly_wage": 727,
+            "avg_annual_pay": 37793
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 421564,
+            "annual_avg_emplvl": 2670904,
+            "total_annual_wages": 115482600511,
+            "annual_avg_wkly_wage": 831,
+            "avg_annual_pay": 43237
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 7957924,
+            "annual_avg_emplvl": 130941396,
+            "total_annual_wages": 4609261132375,
+            "annual_avg_wkly_wage": 677,
+            "avg_annual_pay": 35201
+        }
+    },
+    "2001_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 415655,
+            "annual_avg_emplvl": 6477544,
+            "total_annual_wages": 261607017941,
+            "annual_avg_wkly_wage": 777,
+            "avg_annual_pay": 40387
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 814069,
+            "annual_avg_emplvl": 12666203,
+            "total_annual_wages": 572394992326,
+            "annual_avg_wkly_wage": 869,
+            "avg_annual_pay": 45191
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 333572,
+            "annual_avg_emplvl": 5570542,
+            "total_annual_wages": 201324032469,
+            "annual_avg_wkly_wage": 695,
+            "avg_annual_pay": 36141
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 429706,
+            "annual_avg_emplvl": 7730344,
+            "total_annual_wages": 254229419956,
+            "annual_avg_wkly_wage": 632,
+            "avg_annual_pay": 32887
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 752894,
+            "annual_avg_emplvl": 12702137,
+            "total_annual_wages": 445747132506,
+            "annual_avg_wkly_wage": 675,
+            "avg_annual_pay": 35092
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1021446,
+            "annual_avg_emplvl": 16988513,
+            "total_annual_wages": 540079425437,
+            "annual_avg_wkly_wage": 611,
+            "avg_annual_pay": 31791
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 876717,
+            "annual_avg_emplvl": 15963562,
+            "total_annual_wages": 577157466294,
+            "annual_avg_wkly_wage": 695,
+            "avg_annual_pay": 36155
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 361063,
+            "annual_avg_emplvl": 6052458,
+            "total_annual_wages": 181491854055,
+            "annual_avg_wkly_wage": 577,
+            "avg_annual_pay": 29986
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 282099,
+            "annual_avg_emplvl": 4153059,
+            "total_annual_wages": 135162108224,
+            "annual_avg_wkly_wage": 626,
+            "avg_annual_pay": 32545
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 482793,
+            "annual_avg_emplvl": 7453408,
+            "total_annual_wages": 238346479738,
+            "annual_avg_wkly_wage": 615,
+            "avg_annual_pay": 31978
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 532994,
+            "annual_avg_emplvl": 9911579,
+            "total_annual_wages": 351278943951,
+            "annual_avg_wkly_wage": 682,
+            "avg_annual_pay": 35441
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1733914,
+            "annual_avg_emplvl": 25010869,
+            "total_annual_wages": 957227031856,
+            "annual_avg_wkly_wage": 736,
+            "avg_annual_pay": 38272
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 2578,
+            "annual_avg_emplvl": 7829,
+            "total_annual_wages": 358484344,
+            "annual_avg_wkly_wage": 881,
+            "avg_annual_pay": 45789
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8039498,
+            "annual_avg_emplvl": 130688049,
+            "total_annual_wages": 4716404389097,
+            "annual_avg_wkly_wage": 694,
+            "avg_annual_pay": 36089
+        }
+    },
+    "2002_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 421572,
+            "annual_avg_emplvl": 6380823,
+            "total_annual_wages": 259918082203,
+            "annual_avg_wkly_wage": 783,
+            "avg_annual_pay": 40734
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 810581,
+            "annual_avg_emplvl": 12463941,
+            "total_annual_wages": 562287552410,
+            "annual_avg_wkly_wage": 868,
+            "avg_annual_pay": 45113
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 326848,
+            "annual_avg_emplvl": 5545424,
+            "total_annual_wages": 205636873549,
+            "annual_avg_wkly_wage": 713,
+            "avg_annual_pay": 37082
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 427374,
+            "annual_avg_emplvl": 7604684,
+            "total_annual_wages": 256647280941,
+            "annual_avg_wkly_wage": 649,
+            "avg_annual_pay": 33749
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 770002,
+            "annual_avg_emplvl": 12613396,
+            "total_annual_wages": 453141253581,
+            "annual_avg_wkly_wage": 691,
+            "avg_annual_pay": 35925
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1047275,
+            "annual_avg_emplvl": 16876879,
+            "total_annual_wages": 550603224305,
+            "annual_avg_wkly_wage": 627,
+            "avg_annual_pay": 32625
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 876805,
+            "annual_avg_emplvl": 15685619,
+            "total_annual_wages": 578563086895,
+            "annual_avg_wkly_wage": 709,
+            "avg_annual_pay": 36885
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 363738,
+            "annual_avg_emplvl": 5999032,
+            "total_annual_wages": 184968036490,
+            "annual_avg_wkly_wage": 593,
+            "avg_annual_pay": 30833
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 284909,
+            "annual_avg_emplvl": 4130946,
+            "total_annual_wages": 137772928001,
+            "annual_avg_wkly_wage": 641,
+            "avg_annual_pay": 33351
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 489831,
+            "annual_avg_emplvl": 7350000,
+            "total_annual_wages": 239016475615,
+            "annual_avg_wkly_wage": 625,
+            "avg_annual_pay": 32519
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 537309,
+            "annual_avg_emplvl": 9819922,
+            "total_annual_wages": 350350661955,
+            "annual_avg_wkly_wage": 686,
+            "avg_annual_pay": 35678
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1793348,
+            "annual_avg_emplvl": 24789864,
+            "total_annual_wages": 956847381770,
+            "annual_avg_wkly_wage": 742,
+            "avg_annual_pay": 38598
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 3374,
+            "annual_avg_emplvl": 8987,
+            "total_annual_wages": 443304095,
+            "annual_avg_wkly_wage": 949,
+            "avg_annual_pay": 49327
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8152967,
+            "annual_avg_emplvl": 129269519,
+            "total_annual_wages": 4736196141810,
+            "annual_avg_wkly_wage": 705,
+            "avg_annual_pay": 36638
+        }
+    },
+    "2003_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 429615,
+            "annual_avg_emplvl": 6305781,
+            "total_annual_wages": 264699953751,
+            "annual_avg_wkly_wage": 807,
+            "avg_annual_pay": 41977
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 820784,
+            "annual_avg_emplvl": 12420244,
+            "total_annual_wages": 572227644018,
+            "annual_avg_wkly_wage": 886,
+            "avg_annual_pay": 46072
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 331048,
+            "annual_avg_emplvl": 5545549,
+            "total_annual_wages": 212627391569,
+            "annual_avg_wkly_wage": 737,
+            "avg_annual_pay": 38342
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 430272,
+            "annual_avg_emplvl": 7534853,
+            "total_annual_wages": 261203078025,
+            "annual_avg_wkly_wage": 667,
+            "avg_annual_pay": 34666
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 762368,
+            "annual_avg_emplvl": 12592269,
+            "total_annual_wages": 466867371966,
+            "annual_avg_wkly_wage": 713,
+            "avg_annual_pay": 37076
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1074510,
+            "annual_avg_emplvl": 16942670,
+            "total_annual_wages": 569665919475,
+            "annual_avg_wkly_wage": 647,
+            "avg_annual_pay": 33623
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 880438,
+            "annual_avg_emplvl": 15525629,
+            "total_annual_wages": 588081965126,
+            "annual_avg_wkly_wage": 728,
+            "avg_annual_pay": 37878
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 364108,
+            "annual_avg_emplvl": 5967646,
+            "total_annual_wages": 189141250199,
+            "annual_avg_wkly_wage": 610,
+            "avg_annual_pay": 31694
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 287932,
+            "annual_avg_emplvl": 4130918,
+            "total_annual_wages": 142042793203,
+            "annual_avg_wkly_wage": 661,
+            "avg_annual_pay": 34385
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 495812,
+            "annual_avg_emplvl": 7268932,
+            "total_annual_wages": 242433573663,
+            "annual_avg_wkly_wage": 641,
+            "avg_annual_pay": 33352
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 542196,
+            "annual_avg_emplvl": 9769608,
+            "total_annual_wages": 355501017887,
+            "annual_avg_wkly_wage": 700,
+            "avg_annual_pay": 36388
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1861560,
+            "annual_avg_emplvl": 24849484,
+            "total_annual_wages": 984735383269,
+            "annual_avg_wkly_wage": 762,
+            "avg_annual_pay": 39628
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 2818,
+            "annual_avg_emplvl": 7307,
+            "total_annual_wages": 370689838,
+            "annual_avg_wkly_wage": 976,
+            "avg_annual_pay": 50731
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8283461,
+            "annual_avg_emplvl": 128860890,
+            "total_annual_wages": 4849598031989,
+            "annual_avg_wkly_wage": 724,
+            "avg_annual_pay": 37634
+        }
+    },
+    "2004_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 440849,
+            "annual_avg_emplvl": 6332395,
+            "total_annual_wages": 279110478432,
+            "annual_avg_wkly_wage": 848,
+            "avg_annual_pay": 44077
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 830907,
+            "annual_avg_emplvl": 12495553,
+            "total_annual_wages": 605325868120,
+            "annual_avg_wkly_wage": 932,
+            "avg_annual_pay": 48443
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 338214,
+            "annual_avg_emplvl": 5592145,
+            "total_annual_wages": 223231237623,
+            "annual_avg_wkly_wage": 768,
+            "avg_annual_pay": 39919
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 427677,
+            "annual_avg_emplvl": 7556763,
+            "total_annual_wages": 271712881478,
+            "annual_avg_wkly_wage": 691,
+            "avg_annual_pay": 35956
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 774172,
+            "annual_avg_emplvl": 12800881,
+            "total_annual_wages": 495743325704,
+            "annual_avg_wkly_wage": 745,
+            "avg_annual_pay": 38727
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1115978,
+            "annual_avg_emplvl": 17299212,
+            "total_annual_wages": 605679190413,
+            "annual_avg_wkly_wage": 673,
+            "avg_annual_pay": 35012
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 890518,
+            "annual_avg_emplvl": 15577855,
+            "total_annual_wages": 611285671144,
+            "annual_avg_wkly_wage": 755,
+            "avg_annual_pay": 39241
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 367018,
+            "annual_avg_emplvl": 6001603,
+            "total_annual_wages": 197678334672,
+            "annual_avg_wkly_wage": 633,
+            "avg_annual_pay": 32938
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 288207,
+            "annual_avg_emplvl": 4181037,
+            "total_annual_wages": 150006047054,
+            "annual_avg_wkly_wage": 690,
+            "avg_annual_pay": 35878
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 500758,
+            "annual_avg_emplvl": 7347453,
+            "total_annual_wages": 253867437315,
+            "annual_avg_wkly_wage": 664,
+            "avg_annual_pay": 34552
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 552355,
+            "annual_avg_emplvl": 9892326,
+            "total_annual_wages": 374983008276,
+            "annual_avg_wkly_wage": 729,
+            "avg_annual_pay": 37906
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1891610,
+            "annual_avg_emplvl": 25277008,
+            "total_annual_wages": 1043037175707,
+            "annual_avg_wkly_wage": 794,
+            "avg_annual_pay": 41264
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 2492,
+            "annual_avg_emplvl": 11048,
+            "total_annual_wages": 512663677,
+            "annual_avg_wkly_wage": 892,
+            "avg_annual_pay": 46403
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8420754,
+            "annual_avg_emplvl": 130365280,
+            "total_annual_wages": 5112173319615,
+            "annual_avg_wkly_wage": 754,
+            "avg_annual_pay": 39214
+        }
+    },
+    "2005_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 445686,
+            "annual_avg_emplvl": 6373086,
+            "total_annual_wages": 288412721650,
+            "annual_avg_wkly_wage": 870,
+            "avg_annual_pay": 45255
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 848387,
+            "annual_avg_emplvl": 12599331,
+            "total_annual_wages": 633613441679,
+            "annual_avg_wkly_wage": 967,
+            "avg_annual_pay": 50289
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 345172,
+            "annual_avg_emplvl": 5673346,
+            "total_annual_wages": 233483732865,
+            "annual_avg_wkly_wage": 791,
+            "avg_annual_pay": 41155
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 430053,
+            "annual_avg_emplvl": 7594858,
+            "total_annual_wages": 279892833317,
+            "annual_avg_wkly_wage": 709,
+            "avg_annual_pay": 36853
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 799449,
+            "annual_avg_emplvl": 13045783,
+            "total_annual_wages": 524691144954,
+            "annual_avg_wkly_wage": 773,
+            "avg_annual_pay": 40219
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1165084,
+            "annual_avg_emplvl": 17727334,
+            "total_annual_wages": 646332836192,
+            "annual_avg_wkly_wage": 701,
+            "avg_annual_pay": 36460
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 906162,
+            "annual_avg_emplvl": 15689591,
+            "total_annual_wages": 631876522683,
+            "annual_avg_wkly_wage": 774,
+            "avg_annual_pay": 40274
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 372152,
+            "annual_avg_emplvl": 6076931,
+            "total_annual_wages": 206022898014,
+            "annual_avg_wkly_wage": 652,
+            "avg_annual_pay": 33902
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 295367,
+            "annual_avg_emplvl": 4248254,
+            "total_annual_wages": 154975397830,
+            "annual_avg_wkly_wage": 702,
+            "avg_annual_pay": 36480
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 513732,
+            "annual_avg_emplvl": 7473966,
+            "total_annual_wages": 266888872685,
+            "annual_avg_wkly_wage": 687,
+            "avg_annual_pay": 35709
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 563279,
+            "annual_avg_emplvl": 10164281,
+            "total_annual_wages": 401668957386,
+            "annual_avg_wkly_wage": 760,
+            "avg_annual_pay": 39518
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 1946906,
+            "annual_avg_emplvl": 25994578,
+            "total_annual_wages": 1109417643527,
+            "annual_avg_wkly_wage": 821,
+            "avg_annual_pay": 42679
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 313,
+            "annual_avg_emplvl": 2752,
+            "total_annual_wages": 113588492,
+            "annual_avg_wkly_wage": 794,
+            "avg_annual_pay": 41275
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8631742,
+            "annual_avg_emplvl": 132664090,
+            "total_annual_wages": 5377390591274,
+            "annual_avg_wkly_wage": 780,
+            "avg_annual_pay": 40534
+        }
+    },
+    "2006_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 441986,
+            "annual_avg_emplvl": 6446476,
+            "total_annual_wages": 303793927683,
+            "annual_avg_wkly_wage": 906,
+            "avg_annual_pay": 47126
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 861876,
+            "annual_avg_emplvl": 12692823,
+            "total_annual_wages": 678140222597,
+            "annual_avg_wkly_wage": 1027,
+            "avg_annual_pay": 53427
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 348232,
+            "annual_avg_emplvl": 5738863,
+            "total_annual_wages": 245675209513,
+            "annual_avg_wkly_wage": 823,
+            "avg_annual_pay": 42809
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 433293,
+            "annual_avg_emplvl": 7616635,
+            "total_annual_wages": 290741798255,
+            "annual_avg_wkly_wage": 734,
+            "avg_annual_pay": 38172
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 827204,
+            "annual_avg_emplvl": 13295777,
+            "total_annual_wages": 557035562532,
+            "annual_avg_wkly_wage": 806,
+            "avg_annual_pay": 41896
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1203198,
+            "annual_avg_emplvl": 18058074,
+            "total_annual_wages": 690003530873,
+            "annual_avg_wkly_wage": 735,
+            "avg_annual_pay": 38210
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 921892,
+            "annual_avg_emplvl": 15756172,
+            "total_annual_wages": 656898289744,
+            "annual_avg_wkly_wage": 802,
+            "avg_annual_pay": 41691
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 382020,
+            "annual_avg_emplvl": 6158397,
+            "total_annual_wages": 216165916749,
+            "annual_avg_wkly_wage": 675,
+            "avg_annual_pay": 35101
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 300387,
+            "annual_avg_emplvl": 4310245,
+            "total_annual_wages": 162766748657,
+            "annual_avg_wkly_wage": 726,
+            "avg_annual_pay": 37763
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 524843,
+            "annual_avg_emplvl": 7648740,
+            "total_annual_wages": 287657755981,
+            "annual_avg_wkly_wage": 723,
+            "avg_annual_pay": 37609
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 578432,
+            "annual_avg_emplvl": 10513084,
+            "total_annual_wages": 439451240068,
+            "annual_avg_wkly_wage": 804,
+            "avg_annual_pay": 41800
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2024753,
+            "annual_avg_emplvl": 26679201,
+            "total_annual_wages": 1190377298193,
+            "annual_avg_wkly_wage": 858,
+            "avg_annual_pay": 44618
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 136,
+            "annual_avg_emplvl": 1262,
+            "total_annual_wages": 36783530,
+            "annual_avg_wkly_wage": 561,
+            "avg_annual_pay": 29147
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 8848250,
+            "annual_avg_emplvl": 134915750,
+            "total_annual_wages": 5718744284375,
+            "annual_avg_wkly_wage": 815,
+            "avg_annual_pay": 42388
+        }
+    },
+    "2007_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 447690,
+            "annual_avg_emplvl": 6501195,
+            "total_annual_wages": 321441070284,
+            "annual_avg_wkly_wage": 951,
+            "avg_annual_pay": 49443
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 868857,
+            "annual_avg_emplvl": 12823255,
+            "total_annual_wages": 729874145398,
+            "annual_avg_wkly_wage": 1095,
+            "avg_annual_pay": 56918
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 352350,
+            "annual_avg_emplvl": 5764180,
+            "total_annual_wages": 256830731816,
+            "annual_avg_wkly_wage": 857,
+            "avg_annual_pay": 44556
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 438575,
+            "annual_avg_emplvl": 7629272,
+            "total_annual_wages": 302407272839,
+            "annual_avg_wkly_wage": 762,
+            "avg_annual_pay": 39638
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 840917,
+            "annual_avg_emplvl": 13490935,
+            "total_annual_wages": 588532190093,
+            "annual_avg_wkly_wage": 839,
+            "avg_annual_pay": 43624
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1238871,
+            "annual_avg_emplvl": 18214451,
+            "total_annual_wages": 721941990817,
+            "annual_avg_wkly_wage": 762,
+            "avg_annual_pay": 39636
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 932511,
+            "annual_avg_emplvl": 15787808,
+            "total_annual_wages": 681996274115,
+            "annual_avg_wkly_wage": 831,
+            "avg_annual_pay": 43198
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 390981,
+            "annual_avg_emplvl": 6194226,
+            "total_annual_wages": 226292318908,
+            "annual_avg_wkly_wage": 703,
+            "avg_annual_pay": 36533
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 302658,
+            "annual_avg_emplvl": 4350583,
+            "total_annual_wages": 172520846265,
+            "annual_avg_wkly_wage": 763,
+            "avg_annual_pay": 39655
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 536718,
+            "annual_avg_emplvl": 7799855,
+            "total_annual_wages": 306094615885,
+            "annual_avg_wkly_wage": 755,
+            "avg_annual_pay": 39244
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 611019,
+            "annual_avg_emplvl": 10829506,
+            "total_annual_wages": 476577266536,
+            "annual_avg_wkly_wage": 846,
+            "avg_annual_pay": 44007
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2076496,
+            "annual_avg_emplvl": 27043124,
+            "total_annual_wages": 1260403121181,
+            "annual_avg_wkly_wage": 896,
+            "avg_annual_pay": 46607
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9037642,
+            "annual_avg_emplvl": 136428390,
+            "total_annual_wages": 6044911844137,
+            "annual_avg_wkly_wage": 852,
+            "avg_annual_pay": 44308
+        }
+    },
+    "2008_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 451412,
+            "annual_avg_emplvl": 6503779,
+            "total_annual_wages": 329799133604,
+            "annual_avg_wkly_wage": 975,
+            "avg_annual_pay": 50709
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 872044,
+            "annual_avg_emplvl": 12837446,
+            "total_annual_wages": 742973313634,
+            "annual_avg_wkly_wage": 1113,
+            "avg_annual_pay": 57875
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 354488,
+            "annual_avg_emplvl": 5763261,
+            "total_annual_wages": 263514109963,
+            "annual_avg_wkly_wage": 879,
+            "avg_annual_pay": 45723
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 439113,
+            "annual_avg_emplvl": 7562699,
+            "total_annual_wages": 307071561043,
+            "annual_avg_wkly_wage": 781,
+            "avg_annual_pay": 40603
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 850389,
+            "annual_avg_emplvl": 13448940,
+            "total_annual_wages": 603195819988,
+            "annual_avg_wkly_wage": 863,
+            "avg_annual_pay": 44851
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1267706,
+            "annual_avg_emplvl": 17883758,
+            "total_annual_wages": 725470804760,
+            "annual_avg_wkly_wage": 780,
+            "avg_annual_pay": 40566
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 944630,
+            "annual_avg_emplvl": 15622204,
+            "total_annual_wages": 690225182975,
+            "annual_avg_wkly_wage": 850,
+            "avg_annual_pay": 44182
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 393386,
+            "annual_avg_emplvl": 6152949,
+            "total_annual_wages": 232472545490,
+            "annual_avg_wkly_wage": 727,
+            "avg_annual_pay": 37782
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 305400,
+            "annual_avg_emplvl": 4354844,
+            "total_annual_wages": 178519301903,
+            "annual_avg_wkly_wage": 788,
+            "avg_annual_pay": 40993
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 541447,
+            "annual_avg_emplvl": 7861958,
+            "total_annual_wages": 319014608164,
+            "annual_avg_wkly_wage": 780,
+            "avg_annual_pay": 40577
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 607447,
+            "annual_avg_emplvl": 11055934,
+            "total_annual_wages": 500713489281,
+            "annual_avg_wkly_wage": 871,
+            "avg_annual_pay": 45289
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2116040,
+            "annual_avg_emplvl": 26804802,
+            "total_annual_wages": 1276466717972,
+            "annual_avg_wkly_wage": 916,
+            "avg_annual_pay": 47621
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9143501,
+            "annual_avg_emplvl": 135852576,
+            "total_annual_wages": 6169436588777,
+            "annual_avg_wkly_wage": 873,
+            "avg_annual_pay": 45413
+        }
+    },
+    "2009_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 448268,
+            "annual_avg_emplvl": 6266399,
+            "total_annual_wages": 317106816317,
+            "annual_avg_wkly_wage": 973,
+            "avg_annual_pay": 50604
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 861928,
+            "annual_avg_emplvl": 12382245,
+            "total_annual_wages": 695041724059,
+            "annual_avg_wkly_wage": 1079,
+            "avg_annual_pay": 56132
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 350285,
+            "annual_avg_emplvl": 5555024,
+            "total_annual_wages": 256151635602,
+            "annual_avg_wkly_wage": 887,
+            "avg_annual_pay": 46112
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 432689,
+            "annual_avg_emplvl": 7190866,
+            "total_annual_wages": 293186291322,
+            "annual_avg_wkly_wage": 784,
+            "avg_annual_pay": 40772
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 837560,
+            "annual_avg_emplvl": 12902477,
+            "total_annual_wages": 588833204334,
+            "annual_avg_wkly_wage": 878,
+            "avg_annual_pay": 45637
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1234195,
+            "annual_avg_emplvl": 16884694,
+            "total_annual_wages": 691005173292,
+            "annual_avg_wkly_wage": 787,
+            "avg_annual_pay": 40925
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 941846,
+            "annual_avg_emplvl": 14750502,
+            "total_annual_wages": 646926784320,
+            "annual_avg_wkly_wage": 843,
+            "avg_annual_pay": 43858
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 389308,
+            "annual_avg_emplvl": 5887991,
+            "total_annual_wages": 223324263619,
+            "annual_avg_wkly_wage": 729,
+            "avg_annual_pay": 37929
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 300807,
+            "annual_avg_emplvl": 4201091,
+            "total_annual_wages": 171604169774,
+            "annual_avg_wkly_wage": 786,
+            "avg_annual_pay": 40848
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 538063,
+            "annual_avg_emplvl": 7563286,
+            "total_annual_wages": 308158178818,
+            "annual_avg_wkly_wage": 784,
+            "avg_annual_pay": 40744
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 609890,
+            "annual_avg_emplvl": 10735581,
+            "total_annual_wages": 483922546628,
+            "annual_avg_wkly_wage": 867,
+            "avg_annual_pay": 45077
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2113641,
+            "annual_avg_emplvl": 25286040,
+            "total_annual_wages": 1210766541811,
+            "annual_avg_wkly_wage": 921,
+            "avg_annual_pay": 47883
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9058481,
+            "annual_avg_emplvl": 129606197,
+            "total_annual_wages": 5886027329896,
+            "annual_avg_wkly_wage": 873,
+            "avg_annual_pay": 45415
+        }
+    },
+    "2010_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 452539,
+            "annual_avg_emplvl": 6254181,
+            "total_annual_wages": 324415012406,
+            "annual_avg_wkly_wage": 998,
+            "avg_annual_pay": 51872
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 865009,
+            "annual_avg_emplvl": 12327761,
+            "total_annual_wages": 718648640672,
+            "annual_avg_wkly_wage": 1121,
+            "avg_annual_pay": 58295
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 346580,
+            "annual_avg_emplvl": 5519075,
+            "total_annual_wages": 258918519100,
+            "annual_avg_wkly_wage": 902,
+            "avg_annual_pay": 46913
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 428504,
+            "annual_avg_emplvl": 7153173,
+            "total_annual_wages": 297956870407,
+            "annual_avg_wkly_wage": 801,
+            "avg_annual_pay": 41654
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 835229,
+            "annual_avg_emplvl": 12855108,
+            "total_annual_wages": 603701541594,
+            "annual_avg_wkly_wage": 903,
+            "avg_annual_pay": 46962
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1227794,
+            "annual_avg_emplvl": 16731380,
+            "total_annual_wages": 698531531255,
+            "annual_avg_wkly_wage": 803,
+            "avg_annual_pay": 41750
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 938115,
+            "annual_avg_emplvl": 14677151,
+            "total_annual_wages": 657900374276,
+            "annual_avg_wkly_wage": 862,
+            "avg_annual_pay": 44825
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 389452,
+            "annual_avg_emplvl": 5865399,
+            "total_annual_wages": 226799617069,
+            "annual_avg_wkly_wage": 744,
+            "avg_annual_pay": 38667
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 298476,
+            "annual_avg_emplvl": 4196554,
+            "total_annual_wages": 176994098389,
+            "annual_avg_wkly_wage": 811,
+            "avg_annual_pay": 42176
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 535688,
+            "annual_avg_emplvl": 7471653,
+            "total_annual_wages": 310913160315,
+            "annual_avg_wkly_wage": 800,
+            "avg_annual_pay": 41612
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 617385,
+            "annual_avg_emplvl": 10768876,
+            "total_annual_wages": 498940524533,
+            "annual_avg_wkly_wage": 891,
+            "avg_annual_pay": 46332
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2106640,
+            "annual_avg_emplvl": 24946131,
+            "total_annual_wages": 1226308513321,
+            "annual_avg_wkly_wage": 945,
+            "avg_annual_pay": 49158
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 4823,
+            "annual_avg_emplvl": 28585,
+            "total_annual_wages": 2132920396,
+            "annual_avg_wkly_wage": 1435,
+            "avg_annual_pay": 74617
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9046233,
+            "annual_avg_emplvl": 128795027,
+            "total_annual_wages": 6002161323733,
+            "annual_avg_wkly_wage": 896,
+            "avg_annual_pay": 46602
+        }
+    },
+    "2011_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 459951,
+            "annual_avg_emplvl": 6316359,
+            "total_annual_wages": 337333414267,
+            "annual_avg_wkly_wage": 1027,
+            "avg_annual_pay": 53406
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 870718,
+            "annual_avg_emplvl": 12433536,
+            "total_annual_wages": 742318123992,
+            "annual_avg_wkly_wage": 1148,
+            "avg_annual_pay": 59703
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 353144,
+            "annual_avg_emplvl": 5577323,
+            "total_annual_wages": 268866231966,
+            "annual_avg_wkly_wage": 927,
+            "avg_annual_pay": 48207
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 433096,
+            "annual_avg_emplvl": 7252511,
+            "total_annual_wages": 311546185183,
+            "annual_avg_wkly_wage": 826,
+            "avg_annual_pay": 42957
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 842578,
+            "annual_avg_emplvl": 13018214,
+            "total_annual_wages": 625468254398,
+            "annual_avg_wkly_wage": 924,
+            "avg_annual_pay": 48046
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1223618,
+            "annual_avg_emplvl": 16910276,
+            "total_annual_wages": 720949589359,
+            "annual_avg_wkly_wage": 820,
+            "avg_annual_pay": 42634
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 942739,
+            "annual_avg_emplvl": 14906615,
+            "total_annual_wages": 686728734082,
+            "annual_avg_wkly_wage": 886,
+            "avg_annual_pay": 46069
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 389682,
+            "annual_avg_emplvl": 5915805,
+            "total_annual_wages": 233985090116,
+            "annual_avg_wkly_wage": 761,
+            "avg_annual_pay": 39553
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 301125,
+            "annual_avg_emplvl": 4271543,
+            "total_annual_wages": 185706952975,
+            "annual_avg_wkly_wage": 836,
+            "avg_annual_pay": 43475
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 535482,
+            "annual_avg_emplvl": 7540727,
+            "total_annual_wages": 322979342951,
+            "annual_avg_wkly_wage": 824,
+            "avg_annual_pay": 42831
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 627354,
+            "annual_avg_emplvl": 11013955,
+            "total_annual_wages": 529484685171,
+            "annual_avg_wkly_wage": 924,
+            "avg_annual_pay": 48074
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2146886,
+            "annual_avg_emplvl": 25221479,
+            "total_annual_wages": 1278245445416,
+            "annual_avg_wkly_wage": 975,
+            "avg_annual_pay": 50681
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9126373,
+            "annual_avg_emplvl": 130378344,
+            "total_annual_wages": 6243612049876,
+            "annual_avg_wkly_wage": 921,
+            "avg_annual_pay": 47888
+        }
+    },
+    "2012_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 457568,
+            "annual_avg_emplvl": 6395867,
+            "total_annual_wages": 348604126481,
+            "annual_avg_wkly_wage": 1048,
+            "avg_annual_pay": 54505
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 873582,
+            "annual_avg_emplvl": 12591950,
+            "total_annual_wages": 762923441390,
+            "annual_avg_wkly_wage": 1165,
+            "avg_annual_pay": 60588
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 346117,
+            "annual_avg_emplvl": 5570029,
+            "total_annual_wages": 273791955967,
+            "annual_avg_wkly_wage": 945,
+            "avg_annual_pay": 49154
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 430788,
+            "annual_avg_emplvl": 7336117,
+            "total_annual_wages": 323705054910,
+            "annual_avg_wkly_wage": 849,
+            "avg_annual_pay": 44125
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 857428,
+            "annual_avg_emplvl": 13205026,
+            "total_annual_wages": 647057042536,
+            "annual_avg_wkly_wage": 942,
+            "avg_annual_pay": 49001
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1244741,
+            "annual_avg_emplvl": 17188759,
+            "total_annual_wages": 750669211539,
+            "annual_avg_wkly_wage": 840,
+            "avg_annual_pay": 43672
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 950155,
+            "annual_avg_emplvl": 15161511,
+            "total_annual_wages": 715554904050,
+            "annual_avg_wkly_wage": 908,
+            "avg_annual_pay": 47195
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 393677,
+            "annual_avg_emplvl": 5973193,
+            "total_annual_wages": 242440273751,
+            "annual_avg_wkly_wage": 781,
+            "avg_annual_pay": 40588
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 305608,
+            "annual_avg_emplvl": 4367055,
+            "total_annual_wages": 196842455107,
+            "annual_avg_wkly_wage": 867,
+            "avg_annual_pay": 45074
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 543846,
+            "annual_avg_emplvl": 7673246,
+            "total_annual_wages": 338501843519,
+            "annual_avg_wkly_wage": 848,
+            "avg_annual_pay": 44115
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 640794,
+            "annual_avg_emplvl": 11322540,
+            "total_annual_wages": 564573633000,
+            "annual_avg_wkly_wage": 959,
+            "avg_annual_pay": 49863
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2118298,
+            "annual_avg_emplvl": 25823937,
+            "total_annual_wages": 1348150890465,
+            "annual_avg_wkly_wage": 1004,
+            "avg_annual_pay": 52205
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 11245,
+            "annual_avg_emplvl": 65314,
+            "total_annual_wages": 5252681118,
+            "annual_avg_wkly_wage": 1547,
+            "avg_annual_pay": 80422
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9173845,
+            "annual_avg_emplvl": 132674545,
+            "total_annual_wages": 6518067513833,
+            "annual_avg_wkly_wage": 945,
+            "avg_annual_pay": 49128
+        }
+    },
+    "2013_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 461961,
+            "annual_avg_emplvl": 6473630,
+            "total_annual_wages": 358343795012,
+            "annual_avg_wkly_wage": 1064,
+            "avg_annual_pay": 55354
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 881078,
+            "annual_avg_emplvl": 12732650,
+            "total_annual_wages": 778164330418,
+            "annual_avg_wkly_wage": 1175,
+            "avg_annual_pay": 61116
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 349150,
+            "annual_avg_emplvl": 5660712,
+            "total_annual_wages": 283019338669,
+            "annual_avg_wkly_wage": 961,
+            "avg_annual_pay": 49997
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 434347,
+            "annual_avg_emplvl": 7418411,
+            "total_annual_wages": 331704236954,
+            "annual_avg_wkly_wage": 860,
+            "avg_annual_pay": 44714
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 860473,
+            "annual_avg_emplvl": 13353089,
+            "total_annual_wages": 659196855129,
+            "annual_avg_wkly_wage": 949,
+            "avg_annual_pay": 49367
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1269987,
+            "annual_avg_emplvl": 17529433,
+            "total_annual_wages": 773377274040,
+            "annual_avg_wkly_wage": 848,
+            "avg_annual_pay": 44119
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 959991,
+            "annual_avg_emplvl": 15375835,
+            "total_annual_wages": 733223140401,
+            "annual_avg_wkly_wage": 917,
+            "avg_annual_pay": 47687
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 402949,
+            "annual_avg_emplvl": 6013932,
+            "total_annual_wages": 246653516192,
+            "annual_avg_wkly_wage": 789,
+            "avg_annual_pay": 41014
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 304865,
+            "annual_avg_emplvl": 4443688,
+            "total_annual_wages": 204006144770,
+            "annual_avg_wkly_wage": 883,
+            "avg_annual_pay": 45909
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 551141,
+            "annual_avg_emplvl": 7802216,
+            "total_annual_wages": 348117433636,
+            "annual_avg_wkly_wage": 858,
+            "avg_annual_pay": 44618
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 647617,
+            "annual_avg_emplvl": 11576649,
+            "total_annual_wages": 582718657614,
+            "annual_avg_wkly_wage": 968,
+            "avg_annual_pay": 50336
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2127617,
+            "annual_avg_emplvl": 26497756,
+            "total_annual_wages": 1396062594889,
+            "annual_avg_wkly_wage": 1013,
+            "avg_annual_pay": 52686
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 5918,
+            "annual_avg_emplvl": 51849,
+            "total_annual_wages": 4337135467,
+            "annual_avg_wkly_wage": 1609,
+            "avg_annual_pay": 83649
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9257094,
+            "annual_avg_emplvl": 134929852,
+            "total_annual_wages": 6698924453191,
+            "annual_avg_wkly_wage": 955,
+            "avg_annual_pay": 49647
+        }
+    },
+    "2014_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 468883,
+            "annual_avg_emplvl": 6568104,
+            "total_annual_wages": 376542068776,
+            "annual_avg_wkly_wage": 1102,
+            "avg_annual_pay": 57329
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 893380,
+            "annual_avg_emplvl": 12899582,
+            "total_annual_wages": 818386999851,
+            "annual_avg_wkly_wage": 1220,
+            "avg_annual_pay": 63443
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 356080,
+            "annual_avg_emplvl": 5726767,
+            "total_annual_wages": 294133678997,
+            "annual_avg_wkly_wage": 988,
+            "avg_annual_pay": 51361
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 437843,
+            "annual_avg_emplvl": 7503331,
+            "total_annual_wages": 345254054620,
+            "annual_avg_wkly_wage": 885,
+            "avg_annual_pay": 46013
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 866862,
+            "annual_avg_emplvl": 13522632,
+            "total_annual_wages": 683391530839,
+            "annual_avg_wkly_wage": 972,
+            "avg_annual_pay": 50537
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1292116,
+            "annual_avg_emplvl": 17985163,
+            "total_annual_wages": 815148948696,
+            "annual_avg_wkly_wage": 872,
+            "avg_annual_pay": 45323
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 973231,
+            "annual_avg_emplvl": 15606298,
+            "total_annual_wages": 764268042917,
+            "annual_avg_wkly_wage": 942,
+            "avg_annual_pay": 48972
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 408848,
+            "annual_avg_emplvl": 6080464,
+            "total_annual_wages": 256145016451,
+            "annual_avg_wkly_wage": 810,
+            "avg_annual_pay": 42126
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 307636,
+            "annual_avg_emplvl": 4515683,
+            "total_annual_wages": 214694223033,
+            "annual_avg_wkly_wage": 914,
+            "avg_annual_pay": 47544
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 561180,
+            "annual_avg_emplvl": 7956949,
+            "total_annual_wages": 366395406122,
+            "annual_avg_wkly_wage": 886,
+            "avg_annual_pay": 46047
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 666428,
+            "annual_avg_emplvl": 11978910,
+            "total_annual_wages": 628608544564,
+            "annual_avg_wkly_wage": 1009,
+            "avg_annual_pay": 52476
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2179263,
+            "annual_avg_emplvl": 27214693,
+            "total_annual_wages": 1480039706892,
+            "annual_avg_wkly_wage": 1046,
+            "avg_annual_pay": 54384
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9411750,
+            "annual_avg_emplvl": 137558577,
+            "total_annual_wages": 7043008221758,
+            "annual_avg_wkly_wage": 985,
+            "avg_annual_pay": 51200
+        }
+    },
+    "2015_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 479343,
+            "annual_avg_emplvl": 6666333,
+            "total_annual_wages": 395825721156,
+            "annual_avg_wkly_wage": 1142,
+            "avg_annual_pay": 59377
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 899529,
+            "annual_avg_emplvl": 13101502,
+            "total_annual_wages": 853028908171,
+            "annual_avg_wkly_wage": 1252,
+            "avg_annual_pay": 65109
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 359500,
+            "annual_avg_emplvl": 5791305,
+            "total_annual_wages": 306079460155,
+            "annual_avg_wkly_wage": 1016,
+            "avg_annual_pay": 52852
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 440938,
+            "annual_avg_emplvl": 7588559,
+            "total_annual_wages": 358712729180,
+            "annual_avg_wkly_wage": 909,
+            "avg_annual_pay": 47270
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 895692,
+            "annual_avg_emplvl": 13810901,
+            "total_annual_wages": 718280621174,
+            "annual_avg_wkly_wage": 1000,
+            "avg_annual_pay": 52008
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1312432,
+            "annual_avg_emplvl": 18484352,
+            "total_annual_wages": 862295485621,
+            "annual_avg_wkly_wage": 897,
+            "avg_annual_pay": 46650
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 970708,
+            "annual_avg_emplvl": 15852540,
+            "total_annual_wages": 802961495173,
+            "annual_avg_wkly_wage": 974,
+            "avg_annual_pay": 50652
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 415634,
+            "annual_avg_emplvl": 6181002,
+            "total_annual_wages": 267307104238,
+            "annual_avg_wkly_wage": 832,
+            "avg_annual_pay": 43247
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 306158,
+            "annual_avg_emplvl": 4570154,
+            "total_annual_wages": 224313551366,
+            "annual_avg_wkly_wage": 944,
+            "avg_annual_pay": 49082
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 574402,
+            "annual_avg_emplvl": 8090721,
+            "total_annual_wages": 382165557075,
+            "annual_avg_wkly_wage": 908,
+            "avg_annual_pay": 47235
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 682590,
+            "annual_avg_emplvl": 12254482,
+            "total_annual_wages": 656027709670,
+            "annual_avg_wkly_wage": 1030,
+            "avg_annual_pay": 53534
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2235095,
+            "annual_avg_emplvl": 28034674,
+            "total_annual_wages": 1584057651233,
+            "annual_avg_wkly_wage": 1087,
+            "avg_annual_pay": 56504
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 39,
+            "annual_avg_emplvl": 330,
+            "total_annual_wages": 11476709,
+            "annual_avg_wkly_wage": 669,
+            "avg_annual_pay": 34778
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9572061,
+            "annual_avg_emplvl": 140426856,
+            "total_annual_wages": 7411067470921,
+            "annual_avg_wkly_wage": 1015,
+            "avg_annual_pay": 52775
+        }
+    },
+    "2016_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 492686,
+            "annual_avg_emplvl": 6758533,
+            "total_annual_wages": 406374994475,
+            "annual_avg_wkly_wage": 1156,
+            "avg_annual_pay": 60128
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 907781,
+            "annual_avg_emplvl": 13277958,
+            "total_annual_wages": 870109994754,
+            "annual_avg_wkly_wage": 1260,
+            "avg_annual_pay": 65530
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 363990,
+            "annual_avg_emplvl": 5874907,
+            "total_annual_wages": 312648340255,
+            "annual_avg_wkly_wage": 1023,
+            "avg_annual_pay": 53218
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 443833,
+            "annual_avg_emplvl": 7643849,
+            "total_annual_wages": 364684296137,
+            "annual_avg_wkly_wage": 918,
+            "avg_annual_pay": 47710
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 913650,
+            "annual_avg_emplvl": 14047373,
+            "total_annual_wages": 740910672487,
+            "annual_avg_wkly_wage": 1014,
+            "avg_annual_pay": 52744
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1346948,
+            "annual_avg_emplvl": 18931345,
+            "total_annual_wages": 896566046063,
+            "annual_avg_wkly_wage": 911,
+            "avg_annual_pay": 47359
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 972732,
+            "annual_avg_emplvl": 16060964,
+            "total_annual_wages": 824185804185,
+            "annual_avg_wkly_wage": 987,
+            "avg_annual_pay": 51316
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 419093,
+            "annual_avg_emplvl": 6264565,
+            "total_annual_wages": 274801087002,
+            "annual_avg_wkly_wage": 844,
+            "avg_annual_pay": 43866
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 308257,
+            "annual_avg_emplvl": 4601728,
+            "total_annual_wages": 228295598692,
+            "annual_avg_wkly_wage": 954,
+            "avg_annual_pay": 49611
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 586566,
+            "annual_avg_emplvl": 8153276,
+            "total_annual_wages": 387528356387,
+            "annual_avg_wkly_wage": 914,
+            "avg_annual_pay": 47530
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 702194,
+            "annual_avg_emplvl": 12397679,
+            "total_annual_wages": 664271474771,
+            "annual_avg_wkly_wage": 1030,
+            "avg_annual_pay": 53580
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2308256,
+            "annual_avg_emplvl": 28788877,
+            "total_annual_wages": 1662846440820,
+            "annual_avg_wkly_wage": 1111,
+            "avg_annual_pay": 57760
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9765986,
+            "annual_avg_emplvl": 142801054,
+            "total_annual_wages": 7633223106028,
+            "annual_avg_wkly_wage": 1028,
+            "avg_annual_pay": 53454
+        }
+    },
+    "2017_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 502704,
+            "annual_avg_emplvl": 6830615,
+            "total_annual_wages": 424154557810,
+            "annual_avg_wkly_wage": 1194,
+            "avg_annual_pay": 62096
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 914770,
+            "annual_avg_emplvl": 13410712,
+            "total_annual_wages": 909575882084,
+            "annual_avg_wkly_wage": 1304,
+            "avg_annual_pay": 67825
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 366431,
+            "annual_avg_emplvl": 5947840,
+            "total_annual_wages": 324703061345,
+            "annual_avg_wkly_wage": 1050,
+            "avg_annual_pay": 54592
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 446200,
+            "annual_avg_emplvl": 7704288,
+            "total_annual_wages": 378887794446,
+            "annual_avg_wkly_wage": 946,
+            "avg_annual_pay": 49179
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 930532,
+            "annual_avg_emplvl": 14239221,
+            "total_annual_wages": 774197790395,
+            "annual_avg_wkly_wage": 1046,
+            "avg_annual_pay": 54371
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1345880,
+            "annual_avg_emplvl": 19265916,
+            "total_annual_wages": 938451801607,
+            "annual_avg_wkly_wage": 937,
+            "avg_annual_pay": 48710
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 949956,
+            "annual_avg_emplvl": 16195682,
+            "total_annual_wages": 855315981080,
+            "annual_avg_wkly_wage": 1016,
+            "avg_annual_pay": 52811
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 424667,
+            "annual_avg_emplvl": 6307216,
+            "total_annual_wages": 284130089653,
+            "annual_avg_wkly_wage": 866,
+            "avg_annual_pay": 45048
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 318138,
+            "annual_avg_emplvl": 4648601,
+            "total_annual_wages": 238311403855,
+            "annual_avg_wkly_wage": 986,
+            "avg_annual_pay": 51265
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 596081,
+            "annual_avg_emplvl": 8231477,
+            "total_annual_wages": 403808690394,
+            "annual_avg_wkly_wage": 943,
+            "avg_annual_pay": 49057
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 720956,
+            "annual_avg_emplvl": 12604832,
+            "total_annual_wages": 693786373242,
+            "annual_avg_wkly_wage": 1058,
+            "avg_annual_pay": 55041
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2367913,
+            "annual_avg_emplvl": 29380834,
+            "total_annual_wages": 1768517251483,
+            "annual_avg_wkly_wage": 1158,
+            "avg_annual_pay": 60193
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 8038,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 9884231,
+            "annual_avg_emplvl": 144767234,
+            "total_annual_wages": 7993840685432,
+            "annual_avg_wkly_wage": 1062,
+            "avg_annual_pay": 55219
+        }
+    },
+    "2018_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 509472,
+            "annual_avg_emplvl": 6894551,
+            "total_annual_wages": 442082327542,
+            "annual_avg_wkly_wage": 1233,
+            "avg_annual_pay": 64121
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 917985,
+            "annual_avg_emplvl": 13577773,
+            "total_annual_wages": 949370481806,
+            "annual_avg_wkly_wage": 1345,
+            "avg_annual_pay": 69921
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 370143,
+            "annual_avg_emplvl": 6019251,
+            "total_annual_wages": 337898220692,
+            "annual_avg_wkly_wage": 1080,
+            "avg_annual_pay": 56136
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 448441,
+            "annual_avg_emplvl": 7768790,
+            "total_annual_wages": 393510534068,
+            "annual_avg_wkly_wage": 974,
+            "avg_annual_pay": 50653
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 948612,
+            "annual_avg_emplvl": 14471652,
+            "total_annual_wages": 810621927459,
+            "annual_avg_wkly_wage": 1077,
+            "avg_annual_pay": 56014
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1376242,
+            "annual_avg_emplvl": 19629588,
+            "total_annual_wages": 986353236153,
+            "annual_avg_wkly_wage": 966,
+            "avg_annual_pay": 50248
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 964557,
+            "annual_avg_emplvl": 16337111,
+            "total_annual_wages": 889659901252,
+            "annual_avg_wkly_wage": 1047,
+            "avg_annual_pay": 54456
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 424784,
+            "annual_avg_emplvl": 6349049,
+            "total_annual_wages": 294627318469,
+            "annual_avg_wkly_wage": 892,
+            "avg_annual_pay": 46405
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 328136,
+            "annual_avg_emplvl": 4692714,
+            "total_annual_wages": 248699393246,
+            "annual_avg_wkly_wage": 1019,
+            "avg_annual_pay": 52997
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 602298,
+            "annual_avg_emplvl": 8346816,
+            "total_annual_wages": 423571120026,
+            "annual_avg_wkly_wage": 976,
+            "avg_annual_pay": 50746
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 739654,
+            "annual_avg_emplvl": 12902402,
+            "total_annual_wages": 735271921265,
+            "annual_avg_wkly_wage": 1096,
+            "avg_annual_pay": 56987
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2428828,
+            "annual_avg_emplvl": 30034945,
+            "total_annual_wages": 1883061950009,
+            "annual_avg_wkly_wage": 1206,
+            "avg_annual_pay": 62696
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 206,
+            "annual_avg_emplvl": 1665,
+            "total_annual_wages": 62781711,
+            "annual_avg_wkly_wage": 725,
+            "avg_annual_pay": 37707
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 10059358,
+            "annual_avg_emplvl": 147026309,
+            "total_annual_wages": 8394791113698,
+            "annual_avg_wkly_wage": 1098,
+            "avg_annual_pay": 57097
+        }
+    },
+    "2019_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 517634,
+            "annual_avg_emplvl": 6962742,
+            "total_annual_wages": 462546702245,
+            "annual_avg_wkly_wage": 1278,
+            "avg_annual_pay": 66432
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 930932,
+            "annual_avg_emplvl": 13725793,
+            "total_annual_wages": 988526042022,
+            "annual_avg_wkly_wage": 1385,
+            "avg_annual_pay": 72020
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 376512,
+            "annual_avg_emplvl": 6092808,
+            "total_annual_wages": 353202987642,
+            "annual_avg_wkly_wage": 1115,
+            "avg_annual_pay": 57970
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 453653,
+            "annual_avg_emplvl": 7816812,
+            "total_annual_wages": 408015840727,
+            "annual_avg_wkly_wage": 1004,
+            "avg_annual_pay": 52197
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 970930,
+            "annual_avg_emplvl": 14662779,
+            "total_annual_wages": 846406299954,
+            "annual_avg_wkly_wage": 1110,
+            "avg_annual_pay": 57725
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1422102,
+            "annual_avg_emplvl": 19981662,
+            "total_annual_wages": 1035126568583,
+            "annual_avg_wkly_wage": 996,
+            "avg_annual_pay": 51804
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 988256,
+            "annual_avg_emplvl": 16418684,
+            "total_annual_wages": 916649697897,
+            "annual_avg_wkly_wage": 1074,
+            "avg_annual_pay": 55830
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 433615,
+            "annual_avg_emplvl": 6382402,
+            "total_annual_wages": 305387258133,
+            "annual_avg_wkly_wage": 920,
+            "avg_annual_pay": 47848
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 331606,
+            "annual_avg_emplvl": 4724330,
+            "total_annual_wages": 257789570757,
+            "annual_avg_wkly_wage": 1049,
+            "avg_annual_pay": 54566
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 612189,
+            "annual_avg_emplvl": 8459518,
+            "total_annual_wages": 446017842832,
+            "annual_avg_wkly_wage": 1014,
+            "avg_annual_pay": 52724
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 760508,
+            "annual_avg_emplvl": 13194723,
+            "total_annual_wages": 778720376585,
+            "annual_avg_wkly_wage": 1135,
+            "avg_annual_pay": 59018
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2486230,
+            "annual_avg_emplvl": 30597472,
+            "total_annual_wages": 1997647532215,
+            "annual_avg_wkly_wage": 1256,
+            "avg_annual_pay": 65288
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 10284168,
+            "annual_avg_emplvl": 149019724,
+            "total_annual_wages": 8796036719592,
+            "annual_avg_wkly_wage": 1135,
+            "avg_annual_pay": 59026
+        }
+    },
+    "2020_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 524490,
+            "annual_avg_emplvl": 6415622,
+            "total_annual_wages": 469539567740,
+            "annual_avg_wkly_wage": 1407,
+            "avg_annual_pay": 73187
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 944148,
+            "annual_avg_emplvl": 12447409,
+            "total_annual_wages": 983586486547,
+            "annual_avg_wkly_wage": 1520,
+            "avg_annual_pay": 79019
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 380674,
+            "annual_avg_emplvl": 5656915,
+            "total_annual_wages": 355697873899,
+            "annual_avg_wkly_wage": 1209,
+            "avg_annual_pay": 62878
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 459523,
+            "annual_avg_emplvl": 7333117,
+            "total_annual_wages": 409557093561,
+            "annual_avg_wkly_wage": 1074,
+            "avg_annual_pay": 55850
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 991646,
+            "annual_avg_emplvl": 13915267,
+            "total_annual_wages": 866608416350,
+            "annual_avg_wkly_wage": 1198,
+            "avg_annual_pay": 62278
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1483202,
+            "annual_avg_emplvl": 19020753,
+            "total_annual_wages": 1055297893854,
+            "annual_avg_wkly_wage": 1067,
+            "avg_annual_pay": 55481
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 1001642,
+            "annual_avg_emplvl": 15283539,
+            "total_annual_wages": 916872414982,
+            "annual_avg_wkly_wage": 1154,
+            "avg_annual_pay": 59991
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 445271,
+            "annual_avg_emplvl": 6084438,
+            "total_annual_wages": 310560343003,
+            "annual_avg_wkly_wage": 982,
+            "avg_annual_pay": 51042
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 339607,
+            "annual_avg_emplvl": 4445836,
+            "total_annual_wages": 259878235331,
+            "annual_avg_wkly_wage": 1124,
+            "avg_annual_pay": 58454
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 623418,
+            "annual_avg_emplvl": 8059788,
+            "total_annual_wages": 453262991667,
+            "annual_avg_wkly_wage": 1082,
+            "avg_annual_pay": 56238
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 783172,
+            "annual_avg_emplvl": 12637900,
+            "total_annual_wages": 784392448104,
+            "annual_avg_wkly_wage": 1194,
+            "avg_annual_pay": 62067
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2560600,
+            "annual_avg_emplvl": 28672325,
+            "total_annual_wages": 2066927728054,
+            "annual_avg_wkly_wage": 1386,
+            "avg_annual_pay": 72088
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 10537391,
+            "annual_avg_emplvl": 139972908,
+            "total_annual_wages": 8932181493092,
+            "annual_avg_wkly_wage": 1227,
+            "avg_annual_pay": 63814
+        }
+    },
+    "2021_A": {
+        "FRD01": {
+            "annual_avg_estabs_count": 553643,
+            "annual_avg_emplvl": 6656614,
+            "total_annual_wages": 510935541258,
+            "annual_avg_wkly_wage": 1476,
+            "avg_annual_pay": 76756
+        },
+        "FRD02": {
+            "annual_avg_estabs_count": 968080,
+            "annual_avg_emplvl": 12848918,
+            "total_annual_wages": 1066940255938,
+            "annual_avg_wkly_wage": 1597,
+            "avg_annual_pay": 83037
+        },
+        "FRD03": {
+            "annual_avg_estabs_count": 392099,
+            "annual_avg_emplvl": 5870537,
+            "total_annual_wages": 383386097599,
+            "annual_avg_wkly_wage": 1256,
+            "avg_annual_pay": 65307
+        },
+        "FRD04": {
+            "annual_avg_estabs_count": 474226,
+            "annual_avg_emplvl": 7513787,
+            "total_annual_wages": 438597932121,
+            "annual_avg_wkly_wage": 1123,
+            "avg_annual_pay": 58372
+        },
+        "FRD05": {
+            "annual_avg_estabs_count": 1034704,
+            "annual_avg_emplvl": 14345347,
+            "total_annual_wages": 935756812364,
+            "annual_avg_wkly_wage": 1254,
+            "avg_annual_pay": 65231
+        },
+        "FRD06": {
+            "annual_avg_estabs_count": 1586506,
+            "annual_avg_emplvl": 19788554,
+            "total_annual_wages": 1169593010021,
+            "annual_avg_wkly_wage": 1137,
+            "avg_annual_pay": 59105
+        },
+        "FRD07": {
+            "annual_avg_estabs_count": 1029888,
+            "annual_avg_emplvl": 15729446,
+            "total_annual_wages": 990368107866,
+            "annual_avg_wkly_wage": 1211,
+            "avg_annual_pay": 62963
+        },
+        "FRD08": {
+            "annual_avg_estabs_count": 456472,
+            "annual_avg_emplvl": 6238264,
+            "total_annual_wages": 334505237028,
+            "annual_avg_wkly_wage": 1031,
+            "avg_annual_pay": 53622
+        },
+        "FRD09": {
+            "annual_avg_estabs_count": 349484,
+            "annual_avg_emplvl": 4571310,
+            "total_annual_wages": 278823209666,
+            "annual_avg_wkly_wage": 1173,
+            "avg_annual_pay": 60994
+        },
+        "FRD10": {
+            "annual_avg_estabs_count": 648296,
+            "annual_avg_emplvl": 8260076,
+            "total_annual_wages": 487093284463,
+            "annual_avg_wkly_wage": 1134,
+            "avg_annual_pay": 58970
+        },
+        "FRD11": {
+            "annual_avg_estabs_count": 816140,
+            "annual_avg_emplvl": 13099882,
+            "total_annual_wages": 853258409462,
+            "annual_avg_wkly_wage": 1253,
+            "avg_annual_pay": 65135
+        },
+        "FRD12": {
+            "annual_avg_estabs_count": 2650939,
+            "annual_avg_emplvl": 29768700,
+            "total_annual_wages": 2300199637689,
+            "annual_avg_wkly_wage": 1486,
+            "avg_annual_pay": 77269
+        },
+        "FRD99": {
+            "annual_avg_estabs_count": 0,
+            "annual_avg_emplvl": 0,
+            "total_annual_wages": 0,
+            "annual_avg_wkly_wage": null,
+            "avg_annual_pay": null
+        },
+        "USDPV": {
+            "annual_avg_estabs_count": 10960474,
+            "annual_avg_emplvl": 144691434,
+            "total_annual_wages": 9749457535475,
+            "annual_avg_wkly_wage": 1296,
+            "avg_annual_pay": 67381
+        }
+    }
+}
