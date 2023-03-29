@@ -51,24 +51,6 @@ CSV_DATA_TYPES = {
     "annual_avg_emplvl": int,
     "avg_annual_pay": int,
 }
-BAR_CHART_ANNOTATION = dict(
-    showarrow=False,
-    font_size=9,
-    xref='paper',
-    yref='paper',
-    x=-0.15,
-    y=-0.10,
-    text="Source: Author's (github@TrentLThompson) calculations based on data from the U.S. Bureau of Labor Statistics.",
-)
-LINE_CHART_ANNOTATION = dict(
-    showarrow=False,
-    font_size=9,
-    xref='paper',
-    yref='paper',
-    x=0.0,
-    y=-0.10,
-    text="Source: Author's (github@TrentLThompson) calculations based on data from the U.S. Bureau of Labor Statistics.",
-)
 ################################################################################
 #endregion
 ################################################################################
@@ -188,7 +170,15 @@ def generate_pie_chart(data: list[dict], ref_year: str) -> None:
         title_y=0.98,
     )
 
-    fig.add_annotation(BAR_CHART_ANNOTATION)
+    fig.add_annotation(
+        showarrow=False,
+        font_size=9,
+        xref='paper',
+        yref='paper',
+        x=-0.15,
+        y=-0.10,
+        text="Source: Author's (github@TrentLThompson) calculations based on data from the U.S. Bureau of Labor Statistics."
+    )
 
     fig.write_image(f"{DIR_OUTPUT}/03_charts/pie_annual_avg_emplvl.png", scale=6)
 #endregion ------------------------------------------------------------------- #
@@ -283,7 +273,15 @@ def generate_bar_chart(data: list[dict], ref_year: str, field: str) -> None:
         mirror=True
     )
 
-    fig.add_annotation(BAR_CHART_ANNOTATION)
+    fig.add_annotation(
+        showarrow=False,
+        font_size=9,
+        xref='paper',
+        yref='paper',
+        x=-0.15,
+        y=-0.10,
+        text="Source: Author's (github@TrentLThompson) calculations based on data from the U.S. Bureau of Labor Statistics."
+    )
 
     fig.write_image(f"{DIR_OUTPUT}/03_charts/bar_{field}.png", scale=6)
 #endregion ------------------------------------------------------------------- #
@@ -369,7 +367,15 @@ def generate_line_chart(data: list[dict], ref_year: str, field: str) -> None:
         mirror=True
     )
 
-    fig.add_annotation(LINE_CHART_ANNOTATION)
+    fig.add_annotation(
+        showarrow=False,
+        font_size=9,
+        xref='paper',
+        yref='paper',
+        x=0.0,
+        y=-0.10,
+        text="Source: Author's (github@TrentLThompson) calculations based on data from the U.S. Bureau of Labor Statistics."
+    )
 
     fig.write_image(f"{DIR_OUTPUT}/03_charts/line_{field}.png", scale=6)
 #endregion ------------------------------------------------------------------- #
